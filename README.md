@@ -1,6 +1,8 @@
 # html-template
+
 Criando um template HTML
-Tecnologias usadas
-[] HTML
-[] CSS
-[] Javascript
+
+## Tecnologias usadas
+[x] HTML
+[x] CSS
+[x] Javascript
